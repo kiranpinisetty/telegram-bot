@@ -1,0 +1,6 @@
+bot.telegram-bot-token=
+bot.telegram-bot-name=
+bot.openai-api-key=
+bot.gemini-api-key=
+bot.huggingface-api-key=
+bot.huggingface-model=gpt2
